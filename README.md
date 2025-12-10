@@ -152,7 +152,6 @@ jobs:
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/GET%2520FREE%2520HOSTING-TALKDROVE-blueviolet%3Fstyle%3Dflat-square%26logo%3Dgoogle-cloud" width="300">
 </a>
 </div>
-````
 
 ``
 ## 📋 Essential Commands
